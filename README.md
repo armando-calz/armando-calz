@@ -25,4 +25,4 @@
 
 #### About
 
-B.S. in Computer Systems Engineering, M.Sc. in Project Management (UNITEC). Spanish (native) · English (professional).
+B.S. in Computer Systems Engineering, M.Sc. in Project Management (UNITEC, degree in progress). Spanish (native) · English (professional).
