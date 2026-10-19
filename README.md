@@ -11,6 +11,7 @@
 
 | Project | What it shows |
 |---|---|
+| [**iso8583-authorizer**](https://github.com/armando-calz/iso8583-authorizer) | Card authorization host speaking ISO 8583 over TCP: hand-written codec with bitmaps, virtual-thread server, issuer rules with standard response codes, credit holds under row locks, tokenized PANs and duplicate retransmissions answered with the original decision. *In progress: reversals and EMV.* |
 | [**ledger-core**](https://github.com/armando-calz/ledger-core) | Double-entry ledger in Java 21 / Spring Boot 4 / PostgreSQL. Exact money arithmetic, overdraft protection under ordered row locks (with a test that reproduces double spending without them), idempotent transfers and design decisions recorded as ADRs. |
 | [**curo**](https://github.com/armando-calz/curo) | Offline desktop app (Electron, React, TypeScript, SQLite) for patient records, with consistent backups, an activity log with undo and HMAC-based offline licensing. In production, with a downloadable demo. |
 
